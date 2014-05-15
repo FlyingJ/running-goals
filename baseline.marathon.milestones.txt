@@ -1,30 +1,33 @@
-* made it to race day feeling comfortable with my training
-* made it to the location without trouble
-* found parking without trouble
-* met someone new and introduced myself
+* [PRE-RACE] feel comfortable with my training
+* [PRE-RACE] make it to the start location without trouble
+* [PRE-RACE] find parking without trouble
+* [PRE-RACE] proper warm-up
 
-* warmed up properly pre-race
+* meet someone new and introduce myself
 
-* adequate gear for warmth
-* non-intrusive pack for carrying supplies
+* [GEAR] adequate gear for warmth
+* [GEAR] non-intrusive pack for carrying supplies
 
-* started out nice and easy
+* [START] started out nice and easy
+* [START] maintained comfortable pace throughout the race
 
-* maintained comfortable pace throughout the race
+* [FINISH] finished the race by any means
+* [FINISH] finished the race without walking
+* [FINISH] finished the race without taking any breaks
 
-* finished the race by any means
-* finished the race without walking
-* finished the race without taking any breaks
+* [TIME] finished the race in under NN:NN:NN (course time limit)
+# intermediate time goals
+* [TIME] finished the race in under 05:14:37 (projected finish at 12:00 per mile)
+# intermediate time goals
+* [TIME] finished the race in under 04:48:24 (projected finish at 11:00 per mile)
+# intermediate time goals
+* [TIME] finished the race in under 04:22:11 (projected finish at 10:00 per mile)
+# intermediate time goals
+* [TIME] finished the race in under 03:55:58 (projected finish at 09:00 per mile)
+# intermediate time goals
+* [TIME] finished the race in under 03:29:45 (projected finish at 08:00 per mile)
+# intermediate time goals
+* [TIME] finished the race in under 03:03:32 (projected finish at 07:00 per mile)
+# supplemental time goals
 
-* finished the race in under 3:30:00 (course time limit)
-* finished the race in under 3:15:00
-* finished the race in under 3:00:00
-* finished the race in under 2:45:00
-* finished the race in under 2:37:12 (projected finish at 12:00 per mile)
-* finished the race in under 2:30:00
-* finished the race in under 2:24:06 (projected finish at 11:00 per mile)
-* finished the race in under 2:15:00
-* finished the race in under 2:11:00 (projected finish at 10:00 per mile)
-* finished the race in under 2:00:00
-
-* received finisher medal
+* grab a souvenir for the shelf (medal, momento, etc)
